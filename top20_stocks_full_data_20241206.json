@@ -1,0 +1,762 @@
+[
+  {
+    "symbol": "sz002131.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 80.3486529318542,
+        "momentum_5d": 0.5504087193460492
+      },
+      "volume": {
+        "price_vol_corr": 0.6971708311917945,
+        "turnover_rate": 0.0795469660400341
+      },
+      "volatility": {
+        "atr_rank": -0.4071428571428571,
+        "swing_stability": -0.0682764957966203
+      },
+      "cap": {
+        "cap_rank": 0.9295170613462614,
+        "cap_growth_5d": 1.5504087193460492
+      }
+    },
+    "score": {
+      "total": 5.808662579141403,
+      "group_breakdown": {
+        "trend": 9.334332300482718,
+        "volume": 4.769661337013276,
+        "volatility": 1.423067303065794,
+        "cap": 3.5941779723117486
+      }
+    },
+    "price_data": {
+      "open": 5.86,
+      "high": 5.91,
+      "low": 5.52,
+      "close": 5.69,
+      "volume": 26484085.75
+    }
+  },
+  {
+    "symbol": "sz000056.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 47.71590530176724,
+        "momentum_5d": 0.6109090909090908
+      },
+      "volume": {
+        "price_vol_corr": 0.5744673820289953,
+        "turnover_rate": 0.1147524704903073
+      },
+      "volatility": {
+        "atr_rank": -0.2085714285714286,
+        "swing_stability": -0.0382439419358035
+      },
+      "cap": {
+        "cap_rank": 0.4391198955808316,
+        "cap_growth_5d": 1.6109090909090908
+      }
+    },
+    "score": {
+      "total": 5.361774044720235,
+      "group_breakdown": {
+        "trend": 7.379681976586271,
+        "volume": 6.778682306460328,
+        "volatility": 0.3417632740545022,
+        "cap": 3.0794390733672765
+      }
+    },
+    "price_data": {
+      "open": 4.4,
+      "high": 4.43,
+      "low": 4.02,
+      "close": 4.43,
+      "volume": 4593845.49
+    }
+  },
+  {
+    "symbol": "sz002640.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 66.54456654456652,
+        "momentum_5d": 0.463519313304721
+      },
+      "volume": {
+        "price_vol_corr": 0.5573761627575408,
+        "turnover_rate": 0.0791553923012998
+      },
+      "volatility": {
+        "atr_rank": -0.5378571428571429,
+        "swing_stability": -0.0712785375171711
+      },
+      "cap": {
+        "cap_rank": 0.7367145254521723,
+        "cap_growth_5d": 1.463519313304721
+      }
+    },
+    "score": {
+      "total": 5.04418243861345,
+      "group_breakdown": {
+        "trend": 7.70390427326503,
+        "volume": 4.571211914682555,
+        "volatility": 1.5664077201036075,
+        "cap": 2.779756108819501
+      }
+    },
+    "price_data": {
+      "open": 7.14,
+      "high": 7.5,
+      "low": 6.4,
+      "close": 6.82,
+      "volume": 7702962.76
+    }
+  },
+  {
+    "symbol": "bj839725.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 54.482016186393416,
+        "momentum_5d": 0.804220925011226
+      },
+      "volume": {
+        "price_vol_corr": 0.5177702910807472,
+        "turnover_rate": 0.007241332824304
+      },
+      "volatility": {
+        "atr_rank": -4.217142857142856,
+        "swing_stability": -0.1136751325613524
+      },
+      "cap": {
+        "cap_rank": 0.1435763565168749,
+        "cap_growth_5d": 1.8042209250112256
+      }
+    },
+    "score": {
+      "total": 4.93224008276058,
+      "group_breakdown": {
+        "trend": 9.255623492014346,
+        "volume": 0.1052931934379921,
+        "volatility": 4.173699139115578,
+        "cap": 3.636629001003285
+      }
+    },
+    "price_data": {
+      "open": 41.8,
+      "high": 48.56,
+      "low": 36.7,
+      "close": 40.18,
+      "volume": 122428.09
+    }
+  },
+  {
+    "symbol": "sh688165.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 78.94032412930257,
+        "momentum_5d": 0.6858552631578949
+      },
+      "volume": {
+        "price_vol_corr": 0.0513639280127528,
+        "turnover_rate": 0.0064705083630237
+      },
+      "volatility": {
+        "atr_rank": -3.2178571428571425,
+        "swing_stability": -0.0835843718553319
+      },
+      "cap": {
+        "cap_rank": 0.8431847846354652,
+        "cap_growth_5d": 1.6858552631578947
+      }
+    },
+    "score": {
+      "total": 4.908944539397816,
+      "group_breakdown": {
+        "trend": 10.198969762761116,
+        "volume": -0.5239132225300854,
+        "volatility": 2.8358048409412007,
+        "cap": 4.193696328641543
+      }
+    },
+    "price_data": {
+      "open": 32.4,
+      "high": 36.6,
+      "low": 27.05,
+      "close": 30.75,
+      "volume": 1038175.92
+    }
+  },
+  {
+    "symbol": "sz002031.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 52.09917699760391,
+        "momentum_5d": 0.5598290598290598
+      },
+      "volume": {
+        "price_vol_corr": 0.8311550906821291,
+        "turnover_rate": 0.0802359417107899
+      },
+      "volatility": {
+        "atr_rank": -0.4221428571428571,
+        "swing_stability": -0.0372826043519326
+      },
+      "cap": {
+        "cap_rank": 0.8213686369569271,
+        "cap_growth_5d": 1.5598290598290598
+      }
+    },
+    "score": {
+      "total": 4.849199192642403,
+      "group_breakdown": {
+        "trend": 7.335367414054638,
+        "volume": 4.979126511121469,
+        "volatility": 0.3770850913842565,
+        "cap": 3.458972554072559
+      }
+    },
+    "price_data": {
+      "open": 7.55,
+      "high": 7.55,
+      "low": 6.87,
+      "close": 7.3,
+      "volume": 11610470.13
+    }
+  },
+  {
+    "symbol": "sz002526.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 71.91892291759133,
+        "momentum_5d": 0.6138888888888887
+      },
+      "volume": {
+        "price_vol_corr": 0.773226081148674,
+        "turnover_rate": 0.0345282208435858
+      },
+      "volatility": {
+        "atr_rank": -0.2628571428571428,
+        "swing_stability": -0.0372320041914169
+      },
+      "cap": {
+        "cap_rank": 0.7490210702964758,
+        "cap_growth_5d": 1.6138888888888892
+      }
+    },
+    "score": {
+      "total": 4.726645228100426,
+      "group_breakdown": {
+        "trend": 9.171262999638252,
+        "volume": 2.099776816506182,
+        "volatility": 0.3247188207453252,
+        "cap": 3.6326321914420494
+      }
+    },
+    "price_data": {
+      "open": 5.81,
+      "high": 5.81,
+      "low": 5.81,
+      "close": 5.81,
+      "volume": 3525731.35
+    }
+  },
+  {
+    "symbol": "sz002347.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 68.22115788589194,
+        "momentum_5d": 0.6093247588424437
+      },
+      "volume": {
+        "price_vol_corr": 0.6523035645218574,
+        "turnover_rate": 0.0316390798857073
+      },
+      "volatility": {
+        "atr_rank": -0.6278571428571428,
+        "swing_stability": -0.0716189591405298
+      },
+      "cap": {
+        "cap_rank": 0.5265709490956554,
+        "cap_growth_5d": 1.609324758842444
+      }
+    },
+    "score": {
+      "total": 4.722248329265582,
+      "group_breakdown": {
+        "trend": 8.868188860511378,
+        "volume": 1.7714865911331588,
+        "volatility": 1.6065675161585586,
+        "cap": 3.222133044893717
+      }
+    },
+    "price_data": {
+      "open": 9.99,
+      "high": 10.01,
+      "low": 9.02,
+      "close": 10.01,
+      "volume": 1562579.12
+    }
+  },
+  {
+    "symbol": "sh605179.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 80.73613585535044,
+        "momentum_5d": 0.6108108108108108
+      },
+      "volume": {
+        "price_vol_corr": 0.0694620828658409,
+        "turnover_rate": 0.0020834539071783
+      },
+      "volatility": {
+        "atr_rank": -1.3121428571428575,
+        "swing_stability": -0.0479286202184823
+      },
+      "cap": {
+        "cap_rank": 0.7322394182360619,
+        "cap_growth_5d": 1.6108108108108108
+      }
+    },
+    "score": {
+      "total": 4.249307184092158,
+      "group_breakdown": {
+        "trend": 9.794194462247605,
+        "volume": -0.770760025114508,
+        "volatility": 1.0210139958592046,
+        "cap": 3.5865460755562872
+      }
+    },
+    "price_data": {
+      "open": 20.19,
+      "high": 23.84,
+      "low": 20.19,
+      "close": 23.84,
+      "volume": 199174.86
+    }
+  },
+  {
+    "symbol": "sh603278.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 60.33755274261605,
+        "momentum_5d": 0.6113924050632911
+      },
+      "volume": {
+        "price_vol_corr": 0.7779721769145428,
+        "turnover_rate": 0.0273766391952693
+      },
+      "volatility": {
+        "atr_rank": -0.708571428571429,
+        "swing_stability": -0.0320798133323755
+      },
+      "cap": {
+        "cap_rank": 0.4745478277083721,
+        "cap_growth_5d": 1.611392405063291
+      }
+    },
+    "score": {
+      "total": 4.195181404673597,
+      "group_breakdown": {
+        "trend": 8.30632606685165,
+        "volume": 1.666492761048331,
+        "volatility": 0.2917811930560811,
+        "cap": 3.1434691100722043
+      }
+    },
+    "price_data": {
+      "open": 12.73,
+      "high": 12.73,
+      "low": 12.25,
+      "close": 12.73,
+      "volume": 1191047.26
+    }
+  },
+  {
+    "symbol": "sz002717.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 31.479872574572823,
+        "momentum_5d": 0.4012345679012346
+      },
+      "volume": {
+        "price_vol_corr": 0.7343246930745633,
+        "turnover_rate": 0.104357375903886
+      },
+      "volatility": {
+        "atr_rank": -0.4078571428571428,
+        "swing_stability": -0.0406986072770194
+      },
+      "cap": {
+        "cap_rank": 0.6574678351668842,
+        "cap_growth_5d": 1.4012345679012346
+      }
+    },
+    "score": {
+      "total": 4.107062645894742,
+      "group_breakdown": {
+        "trend": 4.694180256778657,
+        "volume": 6.339711785104534,
+        "volatility": 0.4883514291277063,
+        "cap": 2.2980672182637742
+      }
+    },
+    "price_data": {
+      "open": 4.86,
+      "high": 5.2,
+      "low": 4.44,
+      "close": 4.54,
+      "volume": 7584230.0
+    }
+  },
+  {
+    "symbol": "sz002195.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 45.70778090263828,
+        "momentum_5d": 0.4782608695652175
+      },
+      "volume": {
+        "price_vol_corr": 0.80810689967853,
+        "turnover_rate": 0.0615677503995881
+      },
+      "volatility": {
+        "atr_rank": -0.3721428571428571,
+        "swing_stability": -0.0384666975616083
+      },
+      "cap": {
+        "cap_rank": 0.9229908633227673,
+        "cap_growth_5d": 1.4782608695652173
+      }
+    },
+    "score": {
+      "total": 4.053879544362841,
+      "group_breakdown": {
+        "trend": 6.2851448096251605,
+        "volume": 3.803890000742229,
+        "volatility": 0.4013287458075118,
+        "cap": 3.183888711286061
+      }
+    },
+    "price_data": {
+      "open": 5.9,
+      "high": 5.93,
+      "low": 5.4,
+      "close": 5.44,
+      "volume": 18799704.35
+    }
+  },
+  {
+    "symbol": "sz002193.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 52.06929740134744,
+        "momentum_5d": 0.4854700854700855
+      },
+      "volume": {
+        "price_vol_corr": 0.8167512104259019,
+        "turnover_rate": 0.0383352170133258
+      },
+      "volatility": {
+        "atr_rank": -0.5335714285714284,
+        "swing_stability": -0.0768880056678531
+      },
+      "cap": {
+        "cap_rank": 0.2321461868357262,
+        "cap_growth_5d": 1.4854700854700855
+      }
+    },
+    "score": {
+      "total": 3.990916618988289,
+      "group_breakdown": {
+        "trend": 6.80195183763832,
+        "volume": 2.387878484799829,
+        "volatility": 1.7552165842574114,
+        "cap": 2.0272902164153
+      }
+    },
+    "price_data": {
+      "open": 7.6,
+      "high": 8.69,
+      "low": 7.21,
+      "close": 8.69,
+      "volume": 871855.96
+    }
+  },
+  {
+    "symbol": "sz000008.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 35.21330441070138,
+        "momentum_5d": 0.4782608695652175
+      },
+      "volume": {
+        "price_vol_corr": 0.4723999214841756,
+        "turnover_rate": 0.0774473315104382
+      },
+      "volatility": {
+        "atr_rank": -0.1857142857142857,
+        "swing_stability": -0.0489132068331068
+      },
+      "cap": {
+        "cap_rank": 0.7451053514823792,
+        "cap_growth_5d": 1.4782608695652173
+      }
+    },
+    "score": {
+      "total": 3.941928998584661,
+      "group_breakdown": {
+        "trend": 5.5175422660747815,
+        "volume": 4.360301116901749,
+        "volatility": 0.6962034184030985,
+        "cap": 2.8758107340360333
+      }
+    },
+    "price_data": {
+      "open": 4.08,
+      "high": 4.08,
+      "low": 3.51,
+      "close": 3.74,
+      "volume": 7780150.69
+    }
+  },
+  {
+    "symbol": "sz002520.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 55.91536023301638,
+        "momentum_5d": 0.6106194690265485
+      },
+      "volume": {
+        "price_vol_corr": 0.2312744067872233,
+        "turnover_rate": 0.0121049395111128
+      },
+      "volatility": {
+        "atr_rank": -0.4292857142857142,
+        "swing_stability": -0.0350152147170615
+      },
+      "cap": {
+        "cap_rank": 0.5873578221144882,
+        "cap_growth_5d": 1.6106194690265487
+      }
+    },
+    "score": {
+      "total": 3.5988640815069672,
+      "group_breakdown": {
+        "trend": 7.977349557868142,
+        "volume": 0.0465661046865795,
+        "volatility": 0.3024875968015322,
+        "cap": 3.334569075934297
+      }
+    },
+    "price_data": {
+      "open": 9.1,
+      "high": 9.1,
+      "low": 8.7,
+      "close": 9.1,
+      "volume": 710433.52
+    }
+  },
+  {
+    "symbol": "sh603667.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 46.86448073806256,
+        "momentum_5d": 0.6101694915254237
+      },
+      "volume": {
+        "price_vol_corr": 0.5502387113055958,
+        "turnover_rate": 0.0124387644119187
+      },
+      "volatility": {
+        "atr_rank": -1.5864285714285713,
+        "swing_stability": -0.0338980215982472
+      },
+      "cap": {
+        "cap_rank": 0.7600223755360805,
+        "cap_growth_5d": 1.6101694915254237
+      }
+    },
+    "score": {
+      "total": 3.5539721623571108,
+      "group_breakdown": {
+        "trend": 7.312122026910856,
+        "volume": 0.4649927967089604,
+        "volatility": 0.6325693126294084,
+        "cap": 3.6311165005419817
+      }
+    },
+    "price_data": {
+      "open": 29.45,
+      "high": 29.45,
+      "low": 26.77,
+      "close": 29.45,
+      "volume": 1341479.89
+    }
+  },
+  {
+    "symbol": "sz000903.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 46.7342678198628,
+        "momentum_5d": 0.5471698113207546
+      },
+      "volume": {
+        "price_vol_corr": 0.314391285981012,
+        "turnover_rate": 0.027009336642588
+      },
+      "volatility": {
+        "atr_rank": -0.3014285714285715,
+        "swing_stability": -0.0417479936239949
+      },
+      "cap": {
+        "cap_rank": 0.7294424762259929,
+        "cap_growth_5d": 1.5471698113207546
+      }
+    },
+    "score": {
+      "total": 3.481678787372332,
+      "group_breakdown": {
+        "trend": 6.852519980806182,
+        "volume": 1.0655930469914354,
+        "volatility": 0.4900846969180228,
+        "cap": 3.2297594156882363
+      }
+    },
+    "price_data": {
+      "open": 4.5,
+      "high": 4.92,
+      "low": 4.5,
+      "close": 4.92,
+      "volume": 2551757.67
+    }
+  },
+  {
+    "symbol": "sz002265.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 45.94766563270503,
+        "momentum_5d": 0.611062335381914
+      },
+      "volume": {
+        "price_vol_corr": 0.7238529818707093,
+        "turnover_rate": 0.0119900379080054
+      },
+      "volatility": {
+        "atr_rank": -0.7892857142857143,
+        "swing_stability": -0.0246785853219104
+      },
+      "cap": {
+        "cap_rank": 0.6628752563863509,
+        "cap_growth_5d": 1.6110623353819138
+      }
+    },
+    "score": {
+      "total": 3.4568719601389346,
+      "group_breakdown": {
+        "trend": 7.25144156989749,
+        "volume": 0.654028062733776,
+        "volatility": 0.0665315654697509,
+        "cap": 3.4678060026585538
+      }
+    },
+    "price_data": {
+      "open": 18.35,
+      "high": 18.35,
+      "low": 17.52,
+      "close": 18.35,
+      "volume": 886882.77
+    }
+  },
+  {
+    "symbol": "sz300179.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 41.28966001837741,
+        "momentum_5d": 0.5215366705471478
+      },
+      "volume": {
+        "price_vol_corr": 0.8916595952981746,
+        "turnover_rate": 0.0179382877279736
+      },
+      "volatility": {
+        "atr_rank": -0.9564285714285716,
+        "swing_stability": -0.0650077281179038
+      },
+      "cap": {
+        "cap_rank": 0.5250792466902853,
+        "cap_growth_5d": 1.5215366705471478
+      }
+    },
+    "score": {
+      "total": 3.4478565525836857,
+      "group_breakdown": {
+        "trend": 6.271155957403932,
+        "volume": 1.2286799261879189,
+        "volatility": 1.4869157079441426,
+        "cap": 2.7340705017690854
+      }
+    },
+    "price_data": {
+      "open": 13.87,
+      "high": 14.21,
+      "low": 12.27,
+      "close": 13.07,
+      "volume": 881655.84
+    }
+  },
+  {
+    "symbol": "sz300399.SZ",
+    "date": "2024-12-06",
+    "factors": {
+      "trend": {
+        "ma_strength": 37.76556297168783,
+        "momentum_5d": 0.4715750232991611
+      },
+      "volume": {
+        "price_vol_corr": 0.952751587651232,
+        "turnover_rate": 0.012050013220276
+      },
+      "volatility": {
+        "atr_rank": -2.403571428571429,
+        "swing_stability": -0.0968282358949533
+      },
+      "cap": {
+        "cap_rank": 0.60973335819504,
+        "cap_growth_5d": 1.4715750232991611
+      }
+    },
+    "score": {
+      "total": 3.4111776657611,
+      "group_breakdown": {
+        "trend": 5.656458796215095,
+        "volume": 0.9432747947327588,
+        "volatility": 3.0258645983620904,
+        "cap": 2.6043878918281638
+      }
+    },
+    "price_data": {
+      "open": 26.6,
+      "high": 34.72,
+      "low": 26.2,
+      "close": 31.58,
+      "volume": 751872.54
+    }
+  }
+]

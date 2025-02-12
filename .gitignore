@@ -1,0 +1,36 @@
+# Data directories
+data/
+Data/
+DATA/
+
+# CSV files
+*.csv
+*.CSV
+
+# Cache directories
+__pycache__/
+.pytest_cache/
+.coverage
+.coverage.*
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System specific
+.DS_Store
+Thumbs.db 
